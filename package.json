@@ -8,6 +8,7 @@
     "build": "tsc",
     "dev": "ts-node-dev --respawn src/index.ts",
     "watch-ts": "tsc -w"
+
   },
   "keywords": [],
   "author": "",
